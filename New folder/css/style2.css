@@ -1,0 +1,44 @@
+label{
+	width: 130px;
+	display: inline-block;
+	padding-right: 17px;
+}
+input{
+	padding: 10px;
+	width: 197px;
+	margin-top: 5px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+/* --- Login.php --- */
+#main-content{
+	margin: 0 auto;
+	width: 408px;
+}
+#submit_div input{
+	width: 248px;
+	font-size: 22px;
+	background-color: #0984e3;
+	border: none;
+}
+#submit_div input:hover{
+	background-color: #0661a4;
+}
+#header{
+	height: 60px;
+	text-align: center;
+	background-color: #2d3436;
+	margin-bottom: 50px;
+	color: #0984e3;
+}
+#header h1{
+	padding-top: 8px;
+	margin: 0;
+}
+#btn-fieldset input{
+	float: left;
+	width: 188px;
+}

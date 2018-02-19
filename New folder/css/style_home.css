@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+#header{
+	height: 60px;
+	text-align: center;
+	background-color: #2d3436;
+	color: #0984e3;
+}
+#header h1{
+	padding-top: 8px;
+	margin: 0;
+}
+form input{
+	float: right;
+	text-decoration: none;
+	padding: 10px 29px;
+	background-color: #0984e3;
+	color: black;
+}
+#main-content{
+	margin: 0 auto;
+	width: 250px;
+	background-color: #154360;
+	padding: 40px;
+	margin-top: 30px;
+}
+#links a{
+	display: block;
+	padding: 20px;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+	background-color: grey;
+	margin-bottom: 20px;
+}

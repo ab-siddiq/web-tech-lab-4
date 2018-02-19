@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+table{
+	
+	border-collapse: collapse;
+	margin-left: 100px;
+	
+}
+th,td{
+	padding: 8px;
+	border: 1px solid black;
+}
+
+#header{
+	height: 60px;
+	text-align: center;
+	background-color: #2d3436;
+	color: #0984e3;
+}
+#header h1{
+	padding-top: 8px;
+	margin: 0;
+}
+#Logout_div{
+	margin-right: 5px;
+}
+#Logout_div a{
+	float: right;
+	text-decoration: none;
+	padding: 10px 29px;
+	background-color: #0984e3;
+	color: black;
+	border: 1px solid black;
+	margin-left: 5px;
+	margin-top: 5px;
+
+}
+#main-content{
+	margin: 0 auto;
+	width: 450px;
+	background-color: #154360;
+	padding: 40px;
+	margin-top: 30px;
+	text-align: center;
+}
+#main-content table{
+
+}

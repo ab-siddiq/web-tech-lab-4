@@ -1,0 +1,61 @@
+label{
+	width: 90px;
+	display: inline-block;
+	padding: 10px;
+}
+input{
+	padding: 10px;
+	width: 197px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+/* --- Login.php --- */
+#main-content{
+	margin: 0 auto;
+	width: 250px;
+}
+#submit_div{
+	margin-top: 10px;
+}
+#submit_div input{
+	width: 248px;
+	font-size: 19px;
+	background-color: #004ea2;
+	border: none;
+}
+#submit_div input:hover{
+	background-color: #1c2122;
+}
+#header{
+	height: 60px;
+	text-align: center;
+	background-color: #2d3436;
+	margin-bottom: 50px;
+	color: #0984e3;
+}
+#header h1{
+	padding-top: 8px;
+	margin: 0;
+}
+#reg_div{
+	margin-top: 5px;
+	width: 248px;
+	background-color: #004ea2;
+	height: 28px;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+#reg_div:hover{
+	background-color: #1c2122;	
+}
+#reg_div a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
